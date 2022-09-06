@@ -155,8 +155,8 @@ function checkCards(selectedCard) {
     // matching cards
     else {
       // case: completely winning
-      document.querySelectorAll('.card.selected').length ===
-        cardsData.length * 2 &&
+      console.log(document.querySelectorAll('.card.selected').length);
+      document.querySelectorAll('.card.selected').length === cardsData.length &&
         setTimeout(() => {
           restart('You won');
         }, 800);
