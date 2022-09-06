@@ -4,7 +4,7 @@ This is a memory game, coded with JavaScript.
 
 ## Screenshot
 
-<img src="src/assets/img/sc.png" width="100%" height="100%"/>
+<img src="src/assets/images/sc.png" width="100%" height="100%"/>
 
 ## Get started
 
